@@ -29,6 +29,8 @@ All notable changes to SeisComP are documented here.
         to LOCATION to prevent a race condition in scmag which could
         have caused duplicate magnitudes.
     -   Add tooltips to amplitude view time window trace handles.
+    -   Add azimuth column to station magnitude table in magnitude
+        review window.
 -   scmvx
     -   Render beachballs along with origin symbols.
 
