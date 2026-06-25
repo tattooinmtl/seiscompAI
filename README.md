@@ -1,4 +1,4 @@
-# SeisComPAI
+# SeisComP-AI
 This new version is under dev. including llama servers and gguf models to analize in real time and send alerts on various endpoints. Follow for more dev news. 
 
 ## About
